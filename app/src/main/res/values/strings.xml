@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickScan</string>
+    <string name="open">Open</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+    <string name="torch">Torch</string>
+    <string name="scan_again">Scan again</string>
+    <string name="no_browser">No app can open this link</string>
+    <string name="camera_needed">Camera permission is required to scan.\nTap to allow.</string>
+</resources>
